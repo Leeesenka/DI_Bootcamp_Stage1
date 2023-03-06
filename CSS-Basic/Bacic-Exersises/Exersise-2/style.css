@@ -1,0 +1,24 @@
+.date {
+	color: black;
+	background: pink;
+	font-family: Verdana, Sans, sans-serif;
+
+
+
+}
+.data2 {
+
+	font-size: 24px;
+}
+#container1 {
+	
+	font-size: 36px;
+	color: blue;
+
+
+}
+#container {
+	font-size: 24px;
+	background-color: green;
+	font-weight: bold;
+}
