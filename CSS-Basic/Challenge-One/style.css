@@ -1,0 +1,18 @@
+li::first-letter
+{
+	font-size: 130%;
+	text-align: center;
+}
+
+ul {
+text-align: center;
+
+}
+
+
+body {
+	background-color: #98C2D0;
+}
+li {
+	list-style-type: none;
+}
