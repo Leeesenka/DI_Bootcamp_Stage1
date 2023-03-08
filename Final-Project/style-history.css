@@ -132,17 +132,22 @@ margin: 20px;
 }
 
 
-.headerhistory {
+#headerhistory {
  position: absolute;
   left: 290px;
   top: 390px;
   right: 10px;
 line-height: 1.5;
+font-size: 16pt;
+border-left: 
+
+
 }
 
 
+}
 p {
-  font-size: 16pt;
+ 
   margin: 10px;
   text-indent: 20px;
 
